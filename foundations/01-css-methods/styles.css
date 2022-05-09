@@ -1,14 +1,14 @@
-.div{
+div{
     color: white;
     background-color: red;
 }
 
-.p{
+p{
     color: white;
     background-color: green;
 }
 
-.button{
+button{
     color: black;
     background-color: orange;
 }

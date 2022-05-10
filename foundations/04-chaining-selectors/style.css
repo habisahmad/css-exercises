@@ -1,0 +1,9 @@
+.avatar.proportioned{
+    height: auto;
+    width: 300px;
+}
+
+.avatar.distorted{ /* When a class has spaces, use . to fill them in */
+    height: 400px;
+    width: 200px;
+}

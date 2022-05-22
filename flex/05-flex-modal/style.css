@@ -13,6 +13,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  
 }
 
 .modal {
@@ -33,6 +34,22 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  margin: 5px;
+}
+
+.items{
+  margin-left: 60px;
+}
+
+.header{
+  font-size: 20px;
+  margin-bottom: 20px;
+  
+}
+
+.sidebyside{
+  display: flex;
+  gap: 80px;
 }
 
 .close-button {

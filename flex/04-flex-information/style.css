@@ -3,6 +3,16 @@ body {
   font-family: 'Courier New', Courier, monospace;
 }
 
+.container {
+  display: flex;
+  margin: 20px;
+  justify-content: center;
+}
+
+.info{
+  width: 200px;
+}
+
 img {
   width: 100px;
   height: 100px;

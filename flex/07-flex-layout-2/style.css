@@ -28,12 +28,14 @@ strong{
   color: darkmagenta;
   display: flex;
   flex-direction: column;
-  justify-content: flex-end;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
 }
 
 .sidebar {
   width: 2000px;
-  height: 825px;
+  height: 840px;
   background: royalblue;
 }
 
@@ -41,4 +43,12 @@ strong{
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
+}
+
+a{
+  text-decoration: none;
+}
+
+ul{
+  list-style-type: none;
 }

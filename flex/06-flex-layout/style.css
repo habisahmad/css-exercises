@@ -31,6 +31,7 @@ img {
   justify-content: flex-end;
   gap: 8px;
   list-style-type: none;
+
 }
 
 .left-links{
@@ -49,6 +50,11 @@ img {
   background-color: #eeeeee;
 }
 
+a{
+  list-style-type: none;
+  text-decoration: none;
+  color: gray;
+}
 button {
   font-family: Roboto, sans-serif;
   border: none;

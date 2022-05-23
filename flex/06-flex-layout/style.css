@@ -16,7 +16,7 @@ img {
   justify-content: flex-start;
   align-items: center;
   margin: 8px;
-  gap: 1650px;
+  /*gap: 1650px; */
   border: 2px solid red;
 } 
 
@@ -26,9 +26,19 @@ img {
   gap: 8px;
 }
 
+.left-links{
+  display: flex;
+  justify-content: end;
+  gap: 8px;
+}
+
 .footer{
   display: flex;
+  justify-content: flex-start;
+  align-items: center;
   margin: 8px;
+  /*gap: 1600px; */
+  border: 2px solid red;
 }
 
 button {

@@ -59,11 +59,12 @@ body {
   
 }
 
+
 .nice {
   display: flex;
   justify-content: center;
   align-items: flex-start;
-  border: 2px solid red;
+  margin: 8px;
 }
 
 .close-button {
@@ -81,6 +82,7 @@ body {
 
 .buttons{
   display: flex;
+  gap: 5px;
 }
 
 button {

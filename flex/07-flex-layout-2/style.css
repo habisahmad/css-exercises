@@ -18,6 +18,10 @@ strong{
   margin: 16px;
 }
 
+.container{
+  display: flex;
+}
+
 .footer {
   height: 72px;
   background: #eee;
@@ -28,7 +32,8 @@ strong{
 }
 
 .sidebar {
-  width: 300px;
+  width: 2000px;
+  height: 825px;
   background: royalblue;
 }
 

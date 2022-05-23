@@ -13,22 +13,20 @@ img {
 
 .header{
   display: flex;
-  justify-content: flex-start;
-  align-items: center;
   margin: 8px;
-  /*gap: 1650px; */
+  gap: 1600px; 
   border: 2px solid red;
 } 
 
 .right-links{
   display: flex;
-  justify-content: end;
+  justify-content: flex-end;
   gap: 8px;
 }
 
 .left-links{
   display: flex;
-  justify-content: end;
+  justify-content: flex-start;
   gap: 8px;
 }
 
@@ -37,7 +35,7 @@ img {
   justify-content: flex-start;
   align-items: center;
   margin: 8px;
-  /*gap: 1600px; */
+  gap: 1530px;
   border: 2px solid red;
 }
 

@@ -27,12 +27,14 @@ img {
   display: flex;
   justify-content: flex-end;
   gap: 8px;
+  list-style-type: none;
 }
 
 .left-links{
   display: flex;
   justify-content: flex-start;
   gap: 8px;
+  list-style-type: none;
 }
 
 .footer{
@@ -41,6 +43,7 @@ img {
   align-items: center;
   margin: 8px;
   gap: 1530px;
+  margin-top: 575px;
 }
 
 button {
